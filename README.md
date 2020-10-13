@@ -2,8 +2,6 @@
 
 ## Outline
 
-## Goal
-
 * Go over some homework 2 questions
 * AWS Educate by Felix
 * Demo pgAdmin 4 dashboard
