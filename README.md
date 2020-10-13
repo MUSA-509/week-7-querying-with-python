@@ -3,7 +3,7 @@
 ## Outline
 
 * Go over some homework 2 questions
-* AWS Educate by Felix
+* AWS Educate by Felix [Slide](https://docs.google.com/presentation/d/1L1HcyrfJf0JEf6POj8y5fRks3Ugt0szD7M-ceeC6bio/edit?usp=sharing)
 * Demo pgAdmin 4 dashboard
 * Execute use cases with the technologies we've been exposed to so far.
 * Wrap up questions as functions
