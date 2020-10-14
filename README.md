@@ -14,7 +14,7 @@
 ## Homework
 
 * Install [pgAdmin 4](https://www.pgadmin.org/download/) and setup class server for access. Use the [class credentials here](https://canvas.upenn.edu/files/89654914/download?download_frd=1) and follow this [AWS guide](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ConnectToPostgreSQLInstance.html). You won't need to look at AWS RDS console as you have all the credentials needed in the JSON file.
-* Homework 3 will be assined on Thursday
+* Homework 3 will be assigned on Thursday
 
 ### Lecture
 
