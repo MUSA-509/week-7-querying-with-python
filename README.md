@@ -15,6 +15,9 @@
 
 * Install [pgAdmin 4](https://www.pgadmin.org/download/) and setup class server for access. Use the [class credentials here](https://canvas.upenn.edu/files/89654914/download?download_frd=1) and follow this [AWS guide](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ConnectToPostgreSQLInstance.html). You won't need to look at AWS RDS console as you have all the credentials needed in the JSON file.
 * Homework 3 will be assined on Thursday
+* Read about SQL Injections
+  * [Python practical walk through](https://realpython.com/prevent-python-sql-injection/)
+* Listen to Paul Ramsey talk about PostGIS in a podcast from last month: <https://open.spotify.com/episode/5z9MbiMLOwAL1xO6WGbN6g?si=6KLb9ffGT9WzJlNfbxIDpw>
 
 ### Lecture
 
